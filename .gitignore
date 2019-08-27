@@ -1,0 +1,8 @@
+*.iml
+*.class
+.idea/
+target/
+.gradle/
+.md
+gradle/
+.bat
